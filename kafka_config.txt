@@ -1,0 +1,4 @@
+TOPICS=["PERFORMANCETEST","PERFORMANCETEST2"]
+NO_OF_MSGS=[60000,120000,180000]
+TIME_TO_RUN=[0.25,0.5,1,1.5,2,2.5,3]
+BROKERS=["kafkabroker0-kafka.com.au:9092,kafkabroker1-kafka.com.au:9092,kafkabroker2-kafka.com.au:9092","kafkabroker0-kafka.dev.com.au:9092,kafkabroker1-kafka.dev.com.au:9092,kafkabroker2-kafka.dev.com.au:9092"] 
