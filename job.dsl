@@ -7,7 +7,7 @@ pipelineJob(jobName) {
       scm {
         git {
           remote {
-            url("https://github.com/mahendarkusuma/jenkins-poc.git")
+            url("https://github.com/mahendarkusuma/jenkins-poc2.git")
             credentials('mahendar.kusuma@gmail.com')
           }
           branch('master')
